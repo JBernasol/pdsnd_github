@@ -1,7 +1,7 @@
 import time 
 import pandas as pd 
 import numpy as np 
-
+#below is coding for the bikeshare data for three cities 
 
 CITY_DATA = { 'chicago': 'chicago.csv', 
              'new york city': 'new_york_city.csv',
