@@ -18,7 +18,7 @@
     </div>
 
     <footer>
-        Made with ♥ from Jamie Bernasol
+        Made with ♥ from Jamie Bernasol Manufacturing Engineer
     </footer>
     
 </body>
